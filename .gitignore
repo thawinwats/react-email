@@ -1,0 +1,25 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore build and dist files
+build/
+dist/
+out/
+node_modules/
+
+# Ignore logs and temp files
+logs/
+tmp/
+*.log
+*.tmp
+
+# Ignore env files
+.env
+
+# Ignore package manager files
+pnpm-lock.yaml
